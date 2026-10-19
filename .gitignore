@@ -1,0 +1,24 @@
+# Arduino / embedded build outputs
+*.elf
+*.hex
+*.bin
+*.map
+*.o
+*.d
+*.a
+build/
+
+# Temporary files and OS metadata
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Local IDE/editor files
+.vscode/
+.idea/
+
+# Never commit secrets or local environment config
+.env
+.env.*
