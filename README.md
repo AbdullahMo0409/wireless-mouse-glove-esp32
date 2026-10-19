@@ -77,8 +77,3 @@ Movement axes, direction, speed, gesture sensitivity, and neutral-position toler
 - This is a **prototype**, not a commercial input device. Performance depends on sensor orientation, calibration, mounting stability, and tuning.
 - The demo documents the physical project. The supplied firmware is included as provided and has **not been independently hardware-tested** while preparing this repository.
 - Battery/regulator output must match the ESP32 board and MPU6050 module's rated inputs. Verify polarity and wiring before powering the circuit.
-
-## Author
-
-**Abdullah Mohammed**  
-AI Engineering Student — Mansoura University
